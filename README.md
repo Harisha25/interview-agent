@@ -121,22 +121,6 @@ Stop interview:
 exit
 ```
 
-## 📹 Demo Video
-
-Record a screen demo showing:
-
-* Start of interview
-* Answering questions
-* Follow-up questions
-* Different personas
-* Feedback
-* Exit
-
-Upload to Google Drive and place the link here:
-
-```
-Demo Video → <your link here>
-```
 
 ##  Design Decisions
 
@@ -156,16 +140,6 @@ README.md
 .gitignore
 env/ (ignored)
 ```
-
-##  Assignment Checklist
-
-* Conversational quality
-* Agentic behaviour
-* Technical implementation
-* Adaptability
-* Multiple user personas
-* Public GitHub repo
-* Demo video ready
 
 ##  Made by
 
